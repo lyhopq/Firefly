@@ -1,8 +1,8 @@
 package controllers
 
 import (
-	"firefly/app/models"
-	"firefly/app/routes"
+	"github.com/lyhopq/firefly/app/models"
+	"github.com/lyhopq/firefly/app/routes"
 
 	"strconv"
 	"strings"

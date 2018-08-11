@@ -1,10 +1,11 @@
 package controllers
 
 import (
-	"firefly/app/models"
 	"fmt"
+
 	_ "github.com/coocood/mysql"
 	"github.com/coocood/qbs"
+	"github.com/lyhopq/firefly/app/models"
 )
 
 type Qbs struct {
